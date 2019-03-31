@@ -1,0 +1,14 @@
+(77, 70):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(97, 76):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(83, 82):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(85, 81):  	connectivity: 2,  	local depth: 6,  	global depth: 6
+(77, 71):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(78, 97):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(67, 73):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(64, 85):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(86, 82):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(65, 85):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(75, 86):  	connectivity: 2,  	local depth: 6,  	global depth: 6
+(65, 96):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(90, 90):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(76, 86):  	connectivity: 1,  	local depth: 3,  	global depth: 3

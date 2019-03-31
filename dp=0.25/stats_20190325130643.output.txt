@@ -1,0 +1,7 @@
+(82, 50):  	connectivity: 2,  	local depth: 6,  	global depth: 6
+(87, 29):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(72, 44):  	connectivity: 2,  	local depth: 6,  	global depth: 6
+(74, 34):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(90, 54):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(85, 51):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(90, 40):  	connectivity: 2,  	local depth: 4,  	global depth: 4

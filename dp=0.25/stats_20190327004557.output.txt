@@ -1,0 +1,11 @@
+(19, 9):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(29, 10):  	connectivity: 2,  	local depth: 4,  	global depth: 4
+(44, 16):  	connectivity: 2,  	local depth: 4,  	global depth: 4
+(30, 0):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(34, 25):  	connectivity: 2,  	local depth: 4,  	global depth: 4
+(39, 12):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(22, 21):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(30, 10):  	connectivity: 1,  	local depth: 3,  	global depth: 3
+(41, 14):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(54, 11):  	connectivity: 1,  	local depth: 5,  	global depth: 5
+(43, 1):  	connectivity: 1,  	local depth: 5,  	global depth: 5
