@@ -1,0 +1,4 @@
+(6, 20):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(6, 10):  	connectivity: 2,  	local depth: 6,  	global depth: 6
+(16, 0):  	connectivity: 1,  	local depth: 8,  	global depth: 8
+(7, 0):  	connectivity: 2,  	local depth: 6,  	global depth: 6
